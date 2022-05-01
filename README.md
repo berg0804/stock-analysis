@@ -8,6 +8,6 @@
 ### To arrive at the these results, VBA was utilized. A script was created that loops through the 2017 and 2018 daily stock data which is stored in separate worksheets separated by year.
 <img width="425" alt="Loop" src="https://user-images.githubusercontent.com/67160240/166110985-95d72df6-18ba-4e68-91b7-865f7151eacd.PNG">
 <img width="513" alt="Loop2 (1)" src="https://user-images.githubusercontent.com/67160240/166111001-57efb091-243a-4d57-a6b3-ff3e74d91b11.PNG">
-### The code for the 2017 analysis ran in 0.46 seconds and the code for 2018 ran in 0.48 seconds.
+### The code for the 2017 analysis ran in 0.46 seconds and the code for 2018 ran in 0.48 seconds
 
 
