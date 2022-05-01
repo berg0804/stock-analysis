@@ -9,3 +9,6 @@
 <img width="425" alt="Loop" src="https://user-images.githubusercontent.com/67160240/166110985-95d72df6-18ba-4e68-91b7-865f7151eacd.PNG">
 <img width="513" alt="Loop2 (1)" src="https://user-images.githubusercontent.com/67160240/166111001-57efb091-243a-4d57-a6b3-ff3e74d91b11.PNG">
 ### The code for the 2017 analysis ran in 0.46 seconds and the code for 2018 ran in 0.48 seconds.
+![Screen Shot 2022-04-30 at 8 38 18 PM](https://user-images.githubusercontent.com/67160240/166127450-a0b1eb45-b397-4abc-baab-93e1892aec80.png)
+![Screen Shot 2022-04-30 at 8 43 44 PM](https://user-images.githubusercontent.com/67160240/166127452-db089842-78ca-4c69-bb02-e9438d2d21c9.png)
+
